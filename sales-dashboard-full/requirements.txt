@@ -1,0 +1,9 @@
+pandas>=2.0
+numpy>=1.26
+scikit-learn>=1.3
+statsmodels>=0.14
+openpyxl>=3.1
+streamlit>=1.40
+plotly>=5.20
+# Optional extra forecasting model (heavier install):
+# prophet>=1.1
